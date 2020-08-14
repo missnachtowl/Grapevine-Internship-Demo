@@ -1,4 +1,4 @@
-A demo of the project I worked on during my summer-long internship with Grapevine. 
+###### A demo of the project I worked on during my summer-long internship with Grapevine. 
 <br /><br />
 *My internship at Grapevine was focused on revamping their existing Categories/Tags feature.*
 
