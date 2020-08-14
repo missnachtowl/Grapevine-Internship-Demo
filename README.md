@@ -1,3 +1,5 @@
+Grapevine is a mobile application for students to use as a centralized hub for all their events on campus. Their team is proudly 100% minority owned and operated, and only shows signs of growing. 
+<br /><br />
 *My internship at Grapevine was focused on revamping their existing Categories/Tags feature.*
 
 ## The existing functionality
