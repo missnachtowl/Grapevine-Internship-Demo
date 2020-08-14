@@ -17,5 +17,5 @@ My internship at Grapevine was focused on revamping their existing Categories/Ta
 - [x] Randomized color system
 - [x] Counter for user to keep track of selected categories and tags
 
-
+![featureAfter](https://user-images.githubusercontent.com/15644940/90289213-6a8fa880-de49-11ea-939a-df2fe5212b97.gif)
 
