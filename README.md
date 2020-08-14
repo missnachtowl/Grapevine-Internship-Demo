@@ -6,7 +6,7 @@
 
 ![featureBefore](https://user-images.githubusercontent.com/15644940/90286275-8001d400-de43-11ea-8eba-d2525b4fd485.gif) 
 
-<br /><br />
+<br /><br /><br />
 
 
 ## The functionality I was able to implement:
