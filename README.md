@@ -1,4 +1,4 @@
-*A demo of the project I worked on during my summer-long internship with Grapevine. My internship at Grapevine was focused on revamping their existing Categories/Tags feature.*
+*A demo of the project I worked on during my summer-long internship with Grapevine. My project was focused on revamping their existing Categories/Tags feature.*
 
 ## The existing functionality
 - Scrollable window
