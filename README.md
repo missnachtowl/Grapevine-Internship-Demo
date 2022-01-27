@@ -1,6 +1,6 @@
 *A demo of the project I worked on during my summer-long internship with Grapevine. My project was focused on revamping their existing Categories/Tags feature.*
 
-## The existing functionality (Before I worked on it)
+## The existing functionality (Before)
 - Scrollable window
 - Selectable categories and tags <br /><br />
 
@@ -9,7 +9,7 @@
 <br /><br /><br />
 
 
-## The functionality I was able to implement:
+## The functionality I was able to implement (And After!):
 - [x] Suggested tags populate in a mixed-in fashion based on selected categories
 - [x] Searchbar for finding and creating tags
 - [x] “Show More” function for suggested tags that responds to category selections/deselections
